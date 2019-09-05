@@ -1,0 +1,38 @@
+[
+{
+  "model": "todo_list.things",
+  "pk": 40,
+  "fields": {
+    "status": "new",
+    "description": "Go to shop",
+    "date_of_completion": "2019-09-19"
+  }
+},
+{
+  "model": "todo_list.things",
+  "pk": 41,
+  "fields": {
+    "status": "new",
+    "description": "Go to shop",
+    "date_of_completion": "2019-09-09"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$eUz9IMVcdr6Y$Q5fenB19dXXZzrycEZeCAgRf+amlLvvSto+Za9bR4oU=",
+    "last_login": "2019-09-03T06:14:33.433Z",
+    "is_superuser": true,
+    "username": "bektursun",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-09-03T06:13:55.456Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
